@@ -1,0 +1,19 @@
+These tools require a few Python libraries to run properly. To simplify setup, you can install all necessary dependencies by running the included script:
+
+python dependencies.py
+
+== Dependencies == 
+The script will install the following Python packages via pip:
+- pandas: for data handling and analysis
+- networkx – for working with and visualising network graphs
+- matplotlib – for plotting graphs and charts
+- requests – for making HTTP requests to APIs
+
+== Standard Library Modules ==
+The following modules are part of Python's standard library and do not require installation:
+- json
+- os
+- csv
+- time
+
+Make sure you're using Python 3.6 or higher to ensure compatibility.

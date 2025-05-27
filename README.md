@@ -19,7 +19,7 @@ The toolkit consists of:
 - Used to inform investigation and to allow functionality for `transaction_trace` using API token.
 
 ## Project Structure
-<pre> <code> root/
+<pre> <code>root/
 │
 ├── transaction_tracer_tool/
 │ ├── transaction_trace.py

@@ -72,7 +72,7 @@ The transaction extraction script respects API limits by sleeping between reques
 The CSV output has been specifically formatted for compatibility with other custom analysis scripts
 Ensure paths between the two tools are preserved to tool functions as expected.
 
-## How These Tools Were Used in my Investigation
+## How These Tools Were Used
 This toolkit was used to support a blockchain forensics investigation by providing insight into the transaction behaviour of a targeted Bitcoin wallet. Specifically:
 - The extraction tool was used to retrieve and store the complete transaction history.
 - The analysis tool then visualised these transactions, highlighting the flow of funds, top walets, and transaction values.

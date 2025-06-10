@@ -39,7 +39,7 @@ The toolkit consists of:
 
 ### Install dependencies (Python 3.8+ recommended):
 Dependencies can be installed by running the following script:
-  python dependencies.py
+  `python dependencies.py`
   
 This script will install 
 - pandas
@@ -55,15 +55,17 @@ Create a config.json file inside transaction_tracer_tool with your BlockCypher t
 
 ## Usage
 ### Step 1: Extract Transactions
-cd transaction_tracer_tool
-python transaction_trace.py
+`cd transaction_tracer_tool`
+
+`python transaction_trace.py`
 
 Enter the selected Bitcoin wallet when prompted
 This transaction will be saved to /data_analysis_tool/trace_output.csv
 
 ## Step 2: Visualise the Transaction Graph and Other Features
-cd ../data_analysis_tool
-python data_analysis.py
+`cd ../data_analysis_tool`
+
+`python data_analysis.py`
 
 This will generate a graph showing the flow of BTC from and to the target wallet, as well as receiver, sender, and BTC amount charts for analysis.
 

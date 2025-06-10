@@ -1,6 +1,6 @@
 These tools require a few Python libraries to run properly. To simplify setup, you can install all necessary dependencies by running the included script:
 
-python dependencies.py
+`python dependencies.py`
 
 == Dependencies == 
 The script will install the following Python packages via pip:
@@ -16,4 +16,4 @@ The following modules are part of Python's standard library and do not require i
 - csv
 - time
 
-Make sure you're using Python 3.6 or higher to ensure compatibility.
+Make sure you're using Python 3.8 or higher to ensure compatibility.

@@ -37,7 +37,7 @@ The toolkit consists of:
 
 ## Setup Instructions
 
-### Install dependencies (Python 3.8+ recommended):
+### Install dependencies (Python 3.9+ recommended):
 Dependencies can be installed by running the following script:
   `python dependencies.py`
   

@@ -6,6 +6,7 @@ This tool expects the file `trace_output.csv` to be present in this directory. T
 
 ## Usage
 `cd ../data_analysis_tool`
+
 `python data_analysis.py`
 
 This will parse the CSV file and create a directed flow of funds graph, recipient and sender charts, and transaction amount charts.
